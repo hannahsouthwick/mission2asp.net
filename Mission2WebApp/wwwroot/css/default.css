@@ -1,0 +1,42 @@
+﻿body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+label {
+    font-size: 20px;
+    color: cadetblue;
+    width: 170px;
+    display: inline-block;
+}
+
+text {
+    font-size: 15px;
+    text-align:center;
+}
+
+li {
+    list-style-type: none;
+}
+
+img {
+    width: 350px;
+    border: 2px solid cadetblue;
+    border-radius: 4px;
+}
+
+div {
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+input {
+    height: 25px;
+    border: 2px solid cadetblue;
+    border-radius: 4px;
+}
+
+a {
+    height: 20px;
+}
